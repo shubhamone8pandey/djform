@@ -16,5 +16,5 @@
       "dest": "pyform/wsgi.py"
     }
   ],
-  "output": "public" // Change "public" to your desired output directory
+  "output": "public"
 }
