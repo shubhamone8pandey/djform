@@ -1,1 +1,1 @@
-Django==3.6
+Django==4.2.4
